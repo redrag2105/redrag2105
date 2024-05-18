@@ -1,3 +1,4 @@
+[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp)](https://rishavchanda.io)
 <h1 align="center">
 	<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=43&color=1EFEFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I'm+ReDrag 🐲;" />
 </h1>
