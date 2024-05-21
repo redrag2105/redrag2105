@@ -38,7 +38,7 @@
 <!-- [GITHUB STATS] !-->
 ### :zap: GitHub Stats ❤️ 
 <!--Top Langs !-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redrag2105&show_icons=true&locale=en&layout=compact&langs_count=9&border_radius=16.5&theme=vision-friendly-dark" alt="redrag2105" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redrag2105&show_icons=true&locale=en&layout=compact&langs_count=6&border_radius=16.5&theme=vision-friendly-dark" alt="redrag2105" /></p>
 
 <!-- Github Stats !-->
 <p>&nbsp;<img height=141 align="center" src="https://github-readme-stats.vercel.app/api?username=redrag2105&show_icons=true&custom_title=ReDrag's%20STATS&locale=en&hide=stars,prs&include_all_commits=true&border_radius=16.5&theme=vision-friendly-dark" alt="redrag2105" /></p>
