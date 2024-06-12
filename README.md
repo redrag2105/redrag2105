@@ -41,7 +41,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redrag2105&show_icons=true&locale=en&layout=compact&langs_count=6&border_radius=16.5&theme=vision-friendly-dark" alt="redrag2105" /></p>
 
 <!-- Github Stats !-->
-<p>&nbsp;<img height=141 align="center" src="https://github-readme-stats.vercel.app/api?username=redrag21&show_icons=true&custom_title=ReDrag's%20STATS&locale=en&hide=stars,prs&include_all_commits=false&border_radius=16.6&theme=vision-friendly-dark" alt="redrag2105" /></p>
+<p>&nbsp;<img height=141 align="center" src="https://github-readme-stats.vercel.app/api?username=redrag21&show_icons=true&custom_title=ReDrag's%20STATS&locale=en&hide=stars,prs&include_all_commits=true&border_radius=16.6&theme=vision-friendly-dark" alt="redrag2105" /></p>
 
 <!-- Streak Stats 
 <p><img src="https://streak-stats.demolab.com?user=redrag2105&theme=vision-friendly-dark&starting_year=2024&border_radius=16.5" alt="GitHub Streak" /></p> !-->
