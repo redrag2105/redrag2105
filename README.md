@@ -38,10 +38,10 @@
 <!-- [GITHUB STATS] !-->
 ### :zap: GitHub Stats ❤️ 
 <!--Top Langs !-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redrag2105&show_icons=true&locale=en&layout=compact&langs_count=6&border_radius=16.5&theme=vision-friendly-dark" alt="redrag2105" /></p>
+<p><img height=145 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redrag2105&show_icons=true&locale=en&layout=compact&langs_count=6&border_radius=16.5&theme=vision-friendly-dark" alt="ReDrag's Top Used Langs" /></p>
 
 <!-- Github Stats !-->
-<p>&nbsp;<img height=141 align="center" src="https://github-readme-stats.vercel.app/api?username=redrag21&show_icons=true&custom_title=ReDrag's%20STATS&locale=en&hide=stars,prs&include_all_commits=true&border_radius=16.6&theme=vision-friendly-dark" alt="redrag2105" /></p>
+<p><img height=145 src="https://github-readme-stats.vercel.app/api?username=redrag21&show_icons=true&custom_title=ReDrag's%20STATS&locale=en&hide=stars,prs&include_all_commits=true&border_radius=16.6&theme=vision-friendly-dark" alt="ReDrag's Github Stats" /></p>
 
 <!-- Streak Stats 
 <p><img src="https://streak-stats.demolab.com?user=redrag2105&theme=vision-friendly-dark&starting_year=2024&border_radius=16.5" alt="GitHub Streak" /></p> !-->
