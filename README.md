@@ -8,7 +8,7 @@
 <h3 align="center">A freshman majoring in Software Engineering </h3>
 
 <!-- [GIF] !-->
-<img align="right" alt="Coding" width="400" src="https://github.com/ReDrag21/ReDrag/blob/3f73012a8c439981a4f1092f0fa96d34bfb264f2/output-onlinegiftools%20(1).gif" />
+<img align="right" alt="Coding" width="400" src="https://github.com/ReDrag21/ReDrag/blob/7a534dda4e921c9b240f3a59dda33cb13fc781b1/Animation%20-%201733510048771.gif" />
 
 <!-- [VIEW COUNTER] !-->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=redrag2105&label=Profile%20views&color=0e75b6&style=flat" alt="redrag2105" /> </p>
