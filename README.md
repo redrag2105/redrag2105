@@ -1,9 +1,11 @@
 <!-- [BANNER] !-->
 &nbsp;&nbsp;&nbsp;[![MasterHead](https://i.imgur.com/vvelX5G.png)](https://akiettran2005.wixsite.com/redrag21) 
 
+<!--
 <h1 align="center">
 	<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=43&color=1EFEFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I'm+ReDrag 🐲;" />
 </h1>
+-->
 
 <h3 align="center">A freshman majoring in Software Engineering </h3>
 
@@ -41,7 +43,7 @@
 <p><img height=145 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redrag2105&show_icons=true&locale=en&layout=compact&langs_count=6&border_radius=16.5&theme=vision-friendly-dark" alt="ReDrag's Top Used Langs" /></p>
 
 <!-- Github Stats !-->
-<p><img height=145 src="https://github-readme-stats.vercel.app/api?username=redrag21&show_icons=true&custom_title=ReDrag's%20STATS&locale=en&hide=stars,prs&include_all_commits=true&border_radius=16.6&theme=vision-friendly-dark" alt="ReDrag's Github Stats" /></p>
+<p><img height=145 src="https://github-readme-stats.vercel.app/api?username=redrag2105&show_icons=true&custom_title=ReDrag's%20STATS&locale=en&hide=stars,prs&include_all_commits=true&border_radius=16.6&theme=vision-friendly-dark" alt="ReDrag's Github Stats" /></p>
 
 <!-- Streak Stats 
 <p><img src="https://streak-stats.demolab.com?user=redrag2105&theme=vision-friendly-dark&starting_year=2024&border_radius=16.5" alt="GitHub Streak" /></p> !-->
