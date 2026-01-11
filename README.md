@@ -1,11 +1,11 @@
 <!-- [BANNER] !-->
 &nbsp;&nbsp;&nbsp;[![MasterHead](https://i.imgur.com/vvelX5G.png)](https://akiettran2005.wixsite.com/redrag21) 
 
-<!--
+<!-- test-->
 <h1 align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=43&color=1EFEFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I'm+ReDrag 🐲;" />
+	<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=43&color=1EFEFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!%F0%9F%91%8B%F0%9F%8F%BB;+I'm+ReDrag+%F0%9F%90%B2;" />
 </h1>
--->
+
 
 <h3 align="center">A freshman majoring in Software Engineering </h3>
 
@@ -40,10 +40,10 @@
 <!-- [GITHUB STATS] !-->
 ### :zap: GitHub Stats ❤️ 
 <!--Top Langs !-->
-<p><img height=145 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redrag2105&show_icons=true&locale=en&layout=compact&langs_count=6&border_radius=16.5&theme=vision-friendly-dark" alt="ReDrag's Top Used Langs" /></p>
+<p><img height=145 align="left" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=redrag2105&show_icons=true&locale=en&layout=compact&langs_count=6&border_radius=16.5&theme=vision-friendly-dark" alt="ReDrag's Top Used Langs" /></p>
 
 <!-- Github Stats !-->
-<p><img height=145 src="https://github-readme-stats.vercel.app/api?username=redrag2105&show_icons=true&custom_title=ReDrag's%20STATS&locale=en&hide=stars,prs&include_all_commits=true&border_radius=16.6&theme=vision-friendly-dark" alt="ReDrag's Github Stats" /></p>
+<p><img height=145 src="https://denvercoder1-github-readme-stats.vercel.app/api?username=redrag2105&show_icons=true&custom_title=ReDrag's%20STATS&locale=en&hide=stars,prs&include_all_commits=true&border_radius=16.6&theme=vision-friendly-dark" alt="ReDrag's Github Stats" /></p>
 
 <!-- Streak Stats 
 <p><img src="https://streak-stats.demolab.com?user=redrag2105&theme=vision-friendly-dark&starting_year=2024&border_radius=16.5" alt="GitHub Streak" /></p> !-->
