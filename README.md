@@ -35,7 +35,7 @@
 
 | Project | What it is | Tech |
 | --- | --- | --- |
-| [**Windows Animations**](https://windhawk.net/mods/windows-animations) | A Windhawk mod that brings customizable animations to minimizing, restoring, closing, and switching Windows — now used by **32K+ users** (20/09/2026). | C++ · Win32 · Windhawk |
+| [**Windows Animations**](https://windhawk.net/mods/windows-animations) | A Windhawk mod that brings customizable animations to minimizing, restoring, closing, and switching Windows — now used by **105K+ users** (23/10/2026). | C++ · Win32 · Windhawk |
 | [**PortManager**](https://github.com/redrag2105/PortManager) | A modern TUI for monitoring ports and processes, killing tasks, managing tracked ports, and handling port forwarding / dev tunnels. | Python · Textual |
 
 ## 🧰 Tech Stack
@@ -60,18 +60,28 @@
 
 </div>
 
+
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redrag2105&theme=transparent" alt="ReDrag's GitHub activity" />
-
-<br />
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=redrag2105&theme=transparent" alt="ReDrag's repositories by language" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=redrag2105&theme=transparent" alt="ReDrag's GitHub stats" />
+  <img
+    width="98%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redrag2105&theme=transparent"
+    alt="ReDrag's GitHub activity graph"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=redrag2105&theme=transparent"
+    alt="Languages used in repositories"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=redrag2105&theme=transparent"
+    alt="ReDrag's GitHub statistics"
+  />
 
 </div>
+
 
 ---
 
